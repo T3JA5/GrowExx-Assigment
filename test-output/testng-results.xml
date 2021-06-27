@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19992" started-at="2021-06-26T22:13:17 IST" finished-at="2021-06-26T22:13:37 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19992" started-at="2021-06-26T22:13:17 IST" finished-at="2021-06-26T22:13:37 IST">
+      <class name="com.makemytrip.MyTrip">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.makemytrip.MyTrip@80503]" name="beforeTest" is-config="true" duration-ms="6842" started-at="2021-06-26T22:13:17 IST" finished-at="2021-06-26T22:13:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="searchFlight()[pri:0, instance:com.makemytrip.MyTrip@80503]" name="searchFlight" duration-ms="12357" started-at="2021-06-26T22:13:24 IST" finished-at="2021-06-26T22:13:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFlight -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.makemytrip.MyTrip@80503]" name="afterTest" is-config="true" duration-ms="753" started-at="2021-06-26T22:13:36 IST" finished-at="2021-06-26T22:13:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.makemytrip.MyTrip -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
